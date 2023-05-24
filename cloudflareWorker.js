@@ -44,7 +44,7 @@ let serverConfig = { //此配置需要插件需要2023.5.22.0以上版本才会�
     ]
 }
 let cookies = [
-    "1_LIR8w5S26tn0bqBpX2OWYD2BPt9NM0l52-zMRmas3SwN2iTBqL5PO9AdZxfEaQySVMwbrJidJAfMvJRC4JPBxM9I6LeMqlQfEwi0K8rtznJp07Q-AoQpieWjdnh5uyCGOJD3CcBzmmB9EHsGhiEjACooQHvknOrZcLmQWIxKbgpQ4OIIwZ3o6K0RPvhWhWFddGTPSe9sb_b_xaQbU2VJw"
+    "_U=1_LIR8w5S26tn0bqBpX2OWYD2BPt9NM0l52-zMRmas3SwN2iTBqL5PO9AdZxfEaQySVMwbrJidJAfMvJRC4JPBxM9I6LeMqlQfEwi0K8rtznJp07Q-AoQpieWjdnh5uyCGOJD3CcBzmmB9EHsGhiEjACooQHvknOrZcLmQWIxKbgpQ4OIIwZ3o6K0RPvhWhWFddGTPSe9sb_b_xaQbU2VJw"
 ]
 
 
